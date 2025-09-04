@@ -1,4 +1,3 @@
-# Source code for **Optimized Privacy-Preserving CNN Inference with Fully Homomorphic Encryption**
 
 ## Requirements
 1. Go 1.16.6 or higher (<https://go.dev/>)  
